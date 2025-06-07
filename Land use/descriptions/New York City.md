@@ -1,8 +1,6 @@
 # New York City
 
-#### Data Source
-
-**PLUTO and MapPLUTO:**
+## PLUTO and MapPLUTO
 
 - [site](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page); 
 
