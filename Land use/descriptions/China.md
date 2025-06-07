@@ -3,13 +3,13 @@
 
 ## Essential Urban Land Use Categories Map for China (EULUC-China-2018)
 
-- *[数据介绍](http://www.ess.tsinghua.edu.cn/publish/ess/7777/2019/20191224160012782538137/20191224160012782538137_.html)(Unaccessible)*
+- ~~[数据介绍](http://www.ess.tsinghua.edu.cn/publish/ess/7777/2019/20191224160012782538137/20191224160012782538137_.html) (Unaccessible)~~
 
 - [页面](http://data.ess.tsinghua.edu.cn/)
 
-- *[数据下载](http://data.ess.tsinghua.edu.cn/data/EULUC/EULUC-China-2018.zip)(Unaccessible)*. 
+- ~~[数据下载](http://data.ess.tsinghua.edu.cn/data/EULUC/EULUC-China-2018.zip) (Unaccessible)~~
 
-Currently available in [iEarth DataHub](https://data-starcloud.pcl.ac.cn/), at this [site](https://data-starcloud.pcl.ac.cn/iearthdata/map?id=7), require login.
+	Currently available in [iEarth DataHub](https://data-starcloud.pcl.ac.cn/), at this [site](https://data-starcloud.pcl.ac.cn/iearthdata/map?id=7), require login.
 
 - [论文](https://doi.org/10.1016/j.scib.2019.12.007)
 
