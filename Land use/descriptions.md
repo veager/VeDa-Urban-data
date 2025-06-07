@@ -4,4 +4,4 @@
 
 - [New York City]()
 
-- [China](../descriptions/China.md)
+- [China](./descriptions/China.md)
